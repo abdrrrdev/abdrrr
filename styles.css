@@ -1,0 +1,24 @@
+section {
+    background: linear-gradient(to right, #000000, #ff0000, #000000);
+    padding: 70px;
+    text-align: center; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+li {
+    display: inline;
+    margin-top: 40px;
+    margin-bottom: 40px; 
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 39px;
+}
